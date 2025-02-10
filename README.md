@@ -9,12 +9,6 @@ This is a simple Flutter application designed for Chatting.
 - Project Showcases: Highlight individual projects with detailed descriptions, technologies used, and links to live demos or repositories. This will help potential employers or clients understand your capabilities.
 - Contact and Social Links: Include a contact form and links to your social media profiles (like LinkedIn, GitHub, etc.) to facilitate networking and communication with potential collaborators or employers.
 
-## APK File
-
-You can download the APK file for the app using the link below:
-
-[Download APK](https://drive.google.com/file/d/1mskts1_p189tBmnQbctwo8YnL158ydju/view?usp=sharing)
-
 ## App Screenshot
 
 Here are the screenshots of the app:
