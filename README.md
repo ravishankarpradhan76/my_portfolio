@@ -16,3 +16,4 @@ Here are the screenshots of the app:
 ![Screenshot 1](assets/app_screenshots/1.png)
 ![Screenshot 2](assets/app_screenshots/2.png)
 ![Screenshot 3](assets/app_screenshots/3.png)
+![Screenshot 4](assets/app_screenshots/4.png)
